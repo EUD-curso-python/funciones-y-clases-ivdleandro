@@ -1,0 +1,3 @@
+run = "pytest -v --tb=no"
+language = "python3"
+action_run = "sudo apt-get install -y python3-setuptools;sudo -H pip3 install pytest"
